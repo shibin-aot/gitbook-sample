@@ -1,3 +1,3 @@
-# gibook-sample
+# gitbook-sample
 
-Introduction gitbook to formmflow.ai
+Introducing gitbook to formsflow.ai
