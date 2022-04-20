@@ -34,7 +34,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 **Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
 
-### Fundamentals: Dive a little deeper
+### Fundamentals: Dive a little deeper::
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
